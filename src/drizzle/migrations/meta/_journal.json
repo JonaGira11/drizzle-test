@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1712764097998,
+      "tag": "0000_kind_william_stryker",
+      "breakpoints": true
+    }
+  ]
+}
